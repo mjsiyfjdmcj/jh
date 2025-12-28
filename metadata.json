@@ -1,0 +1,7 @@
+{
+  "name": "HR Pulse - AI Support Suite",
+  "description": "A comprehensive AI-powered HR platform for policy assistance, talent management, and employee sentiment analysis using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
